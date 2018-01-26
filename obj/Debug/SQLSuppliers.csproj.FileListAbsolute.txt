@@ -1,0 +1,7 @@
+C:\Users\MotherBrain\source\repos\SQLSuppliers\SQLSuppliers\bin\Debug\SQLSuppliers.exe.config
+C:\Users\MotherBrain\source\repos\SQLSuppliers\SQLSuppliers\bin\Debug\SQLSuppliers.exe
+C:\Users\MotherBrain\source\repos\SQLSuppliers\SQLSuppliers\bin\Debug\SQLSuppliers.pdb
+C:\Users\MotherBrain\source\repos\SQLSuppliers\SQLSuppliers\obj\Debug\SQLSuppliers.csprojResolveAssemblyReference.cache
+C:\Users\MotherBrain\source\repos\SQLSuppliers\SQLSuppliers\obj\Debug\SQLSuppliers.csproj.CoreCompileInputs.cache
+C:\Users\MotherBrain\source\repos\SQLSuppliers\SQLSuppliers\obj\Debug\SQLSuppliers.exe
+C:\Users\MotherBrain\source\repos\SQLSuppliers\SQLSuppliers\obj\Debug\SQLSuppliers.pdb
